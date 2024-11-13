@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "adrianoaraujodsantos@hotmail.com",
+      "image": "https://lh3.googleusercontent.com/ogw/AF2bZyhp8zj4fZXRpRtQHGtA4JmeUplg_PPIQPvl0RjNcApLfg",
+      "name": "Adriano Araújo",
+      "description": "",
+      "socials": {
+        "instagram": "https://instagram.com/adrianoaraujods",
+        "github": "https://github.com/adrianoaraujods",
+        "linkedin": "https://linkedin.com/in/adrianoaraujods"
+      }
+    }
+  ],
+  "favorites": []
+}
