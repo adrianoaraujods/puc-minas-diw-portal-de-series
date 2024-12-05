@@ -4,8 +4,14 @@
       "id": 1,
       "email": "adrianoaraujodsantos@hotmail.com",
       "image": "https://lh3.googleusercontent.com/ogw/AF2bZyhp8zj4fZXRpRtQHGtA4JmeUplg_PPIQPvl0RjNcApLfg",
-      "name": "Adriano Araújo",
-      "description": "",
+      "name": "Adriano Araújo Domingos dos Santos",
+      "description": [
+        "Em primeiro lugar, o que você pode saber de mim é que meu foco é seguir Cristo, o resto é lucro. Escolhi este curso porque é uma área que eu me identifico e para tentar agregar no mercado, colocando minhas éticas e morais cristãs em prática!",
+        "Estou no primeiro período, mas já tenho algum conhecimento sobre a área de Web Development, já estou envolvido com este mercado desde 2020, logo após eu terminar o ensino médio.",
+        "Nos últimos anos não tenho assistido muitas séries porque comecei a assistir alguns animes, os que já estão marcados como favoritos eu recomendo bastante, principalmente os primeiros, eles trazem questões éticas e morais que realmente te colocam pra pensar sobre a sociedade funciona e como a maldade tem prevalecido."
+      ],
+      "course": "Ciência da Computação",
+      "class": "Manhã",
       "socials": {
         "instagram": "https://instagram.com/adrianoaraujods",
         "github": "https://github.com/adrianoaraujods",
@@ -13,5 +19,81 @@
       }
     }
   ],
-  "favorites": []
+  "favorites": [
+    {
+      "userId": 1,
+      "mediaId": 72636,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "mediaId": 75214,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "mediaId": 31911,
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "mediaId": 35935,
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "mediaId": 1429,
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "mediaId": 37854,
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "mediaId": 46298,
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "mediaId": 12971,
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "mediaId": 85937,
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "mediaId": 64196,
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "mediaId": 45790,
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "mediaId": 83097,
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "mediaId": 95479,
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "mediaId": 42509,
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "mediaId": 42942,
+      "id": 15
+    }
+  ]
 }
